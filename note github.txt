@@ -1,0 +1,9 @@
+creer un repertoire dans github
+allez dans git bash
+saisir git remote add origin https://github.com/Ramatoulaye23/JS.git qui est le lien de mon depot distant
+git branch -M main
+git push -u origin main: pour envoyer du depot local au depot distant
+git pull origin main : nom de la branch sur lequelle on doit prendre les modifications
+pull requests: demande de fusion
+issue: message coder
+nb après chaque push  il faut refaire un pull origin main pour mettre à jour le ficher en local 
