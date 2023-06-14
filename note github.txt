@@ -7,3 +7,9 @@ git pull origin main : nom de la branch sur lequelle on doit prendre les modific
 pull requests: demande de fusion
 issue: message coder
 nb après chaque push  il faut refaire un pull origin main pour mettre à jour le ficher en local 
+suppression branch; git branch -d nombranch
+cd .. pour revenir en arrière dans un chemin
+cd non dossier pour aller sur un dossier specifique
+-- sql--
+set: valeur pas commune, plusieurs choix possible
+enum: valeur commune, choix unique
